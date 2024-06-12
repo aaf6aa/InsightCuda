@@ -16,6 +16,7 @@ The program can be built with Visual Studio 2022 with the following dependecies:
 - CUDA 12.x
 - GLEW
 - GLFW
+
 Ensure that you have environmental variables `$(CUDA_PATH)`, `$(GLEW_PATH)`, and `$(GLFW_PATH)` which point to the respective libraries' directories.
 
 ## TODO
